@@ -1,4 +1,4 @@
-#Purpose
+# Purpose
 Support for Facebook users some tools make life easier.
 
 # Tutorial
@@ -6,6 +6,10 @@ In this section, the tools are written in JavaScript.
 Please press *F12*, switch to the *Console* tab.
 
 Copy the required code, paste it into the console, and press enter to run.
+
+# Supported tools
+
+1. [Removal Older Comments on Facebook](RemoveAllComments.js)
 
 # Others information
 I won't take responsibility for any issues that may arise when using **unofficial Facebook tools**. They may modify certain things that could cause the script to behave unexpectedly and not as intended.
